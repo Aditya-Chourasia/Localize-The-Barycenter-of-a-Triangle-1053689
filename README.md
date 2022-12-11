@@ -1,2 +1,2 @@
-# Localize-The-Barycenter-of-a-Triangle-1053689
+# Localize-The-Barycenter-of-a-Triangle
 Codewars Solution
